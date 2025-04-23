@@ -1,4 +1,4 @@
-# AI-medical-report-summarization-and-key-insights
+
 # 🧠 AI Medical Report Summarization and Key Insights
 
 An intelligent AI-driven application designed to **automatically summarize complex medical reports** and extract critical insights for faster clinical decision-making. This system enhances healthcare efficiency by converting lengthy, unstructured medical data into concise, human-readable summaries — enabling doctors and patients to better understand diagnoses, symptoms, and treatments.
